@@ -15,7 +15,7 @@ Follow these steps to run the Image Search App on your local machine:
 
 ### 2. Clone the Repository: 
 
-- Clone this GitHub repository to your local machine using the following command: **git clone https://github.com/your-username/ui-building-app.git**
+- Clone this GitHub repository to your local machine using the following command: **git clone https://github.com/Biswajeet-23/profile_UI.git**
 
 ### 3. Install Dependencies:
 
